@@ -1,7 +1,11 @@
 > 作者：卖桃翁恋歌/桃子
 >
-> 感谢[A_nmi](https://github.com/HibiKier)的更新 1.3现在运行还有很多插件被ignore，等A_nmi更新
->
+> 感谢[A_nmi](https://github.com/HibiKier)的更新 1.3现在运行还有很多插件被ignore，等A_nmi更新>
+> >
+> [zhenxun_bot链接](https://github.com/HibiKier/zhenxun_bot)
+
+
+
 
 ```
  pip3 install poetry

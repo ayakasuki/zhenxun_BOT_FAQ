@@ -60,7 +60,7 @@ playweight install
 
 　　  6.如果genshin下载资源出错
 
-> 把**链接下的py**替换相应目录
+> 把**[链接下的py](https://github.com/HibiKier/zhenxun_bot/blob/main/plugins/genshin/query_resource_points/query_resource.py)**替换相应目录
 >
 > **zhenxun_bot/plugins/genshin/query_resource_points**
 >

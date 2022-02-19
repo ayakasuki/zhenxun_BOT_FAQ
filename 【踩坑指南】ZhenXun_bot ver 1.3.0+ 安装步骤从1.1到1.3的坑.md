@@ -61,7 +61,7 @@ playweight install
 
 > 记得备份**zhenxun/resources/img**与**zhenxun/data**目录,防止色图出错
 > 
-> img目录已变更为image，temp目录迁移至/image/temp
+> img目录已变更为image，temp目录迁移至/resources/temp
 
 　　  6.如果genshin下载资源出错
 

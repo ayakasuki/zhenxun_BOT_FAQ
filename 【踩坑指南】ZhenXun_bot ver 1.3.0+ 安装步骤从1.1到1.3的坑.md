@@ -4,9 +4,10 @@
 > >
 > [zhenxun_bot链接](https://github.com/HibiKier/zhenxun_bot)
 
-
-
-
+>**go-cqhttp设置**
+>
+>config.yaml文件下的反向代理改成ws:127.0.0.1:端口/onebot/v11/ws
+>
 ```
  pip3 install poetry
  poetry install
